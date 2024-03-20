@@ -38,9 +38,15 @@ We value your trust in providing us your Personal Information, thus we are striv
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
 ### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-### Contact Us  
+###Cancellation Policy
+If you wish to cancel your subscription within 3 days of making a payment, you are eligible for a full refund. To cancel your subscription and request a refund, please contact us via email within this timeframe. Upon receiving your cancellation request, we will process your refund promptly.
+
+###Refund Policy
+We understand that circumstances may arise where you need to cancel your subscription or request a refund. Todo'er offers a refund policy within 3 days of payment. If you are dissatisfied with our service or have made a payment in error, you may request a refund within this timeframe. To initiate the refund process, please contact us at the provided email address.
+
+### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: devtharun23@gmail.com 
